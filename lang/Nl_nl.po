@@ -1,0 +1,730 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ready Backup\n"
+"POT-Creation-Date: 2014-03-11 12:09+0300\n"
+"PO-Revision-Date: 2014-10-16 17:00+0100\n"
+"Last-Translator: Artur Kovalevsky <kovalevskyproj@gmail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.9\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: nl\n"
+"X-Poedit-SearchPath-0: /var/www/host1.laptop/wordpress/wp-content/plugins/"
+"ready-backup\n"
+"X-Poedit-SearchPath-1: /var/www/host1.laptop/wordpress/wp-content/plugins/"
+"ready-backup-pro\n"
+
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup/modules/schedule/controller.php:8
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup/modules/backup/controller.php:33
+msgid "Backup complete"
+msgstr "Backup is voltooid"
+
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup/modules/schedule/controller.php:19
+msgid "Save complete"
+msgstr "Opslaan is gelukt"
+
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup/modules/schedule/views/tpl/schedulePage.php:94
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup/modules/options/views/tpl/templateOptionsTab.php:33
+msgid "Save All Changes"
+msgstr "Bewaar alle aanpassingen"
+
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup/modules/promo_ready/controller.php:6
+msgid "Information was saved. Thank you!"
+msgstr "De informatie is opgeslagen. Dank u!"
+
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup/modules/pages/mod.php:151
+msgid "Pages"
+msgstr "Pagina's\t"
+
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup/modules/pages/mod.php:176
+msgid "This message will be visible for admin only."
+msgstr "Dit bericht kan alleen door de admin ingezien worden"
+
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup/modules/pages/controller.php:6
+msgid "Pages was recreated"
+msgstr "Pagina's zijn opnieuw opgebouwd"
+
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup/modules/pages/views/tpl/deactivatePage.php:37
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup/modules/adminmenu/controller.php:28
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup/modules/options/views/tpl/deactivatePage.php:37
+msgid "Done"
+msgstr "Klaar"
+
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup/modules/pages/views/tpl/pagesTab.php:17
+msgid "Recreate Pages"
+msgstr "Pagina's opnieuw opbouwen"
+
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup/modules/adminmenu/mod.php:10
+msgid "Settings"
+msgstr "Instellingen"
+
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup/modules/adminmenu/controller.php:7
+msgid "Your name field is required."
+msgstr "Het veld ' uw naam' is verplicht"
+
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup/modules/adminmenu/controller.php:8
+msgid "Your website field is required."
+msgstr "Het veld ' uw website' is verplicht"
+
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup/modules/adminmenu/controller.php:9
+msgid "Your e-mail field is required."
+msgstr "Het veld ' uw e-mail' is verplicht"
+
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup/modules/adminmenu/controller.php:10
+msgid "Subject field is required."
+msgstr "Het veld ' onderwerp' is verplicht"
+
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup/modules/adminmenu/controller.php:11
+msgid "You must select a valid category."
+msgstr "U moet een geldige categorie kiezen"
+
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup/modules/adminmenu/controller.php:12
+msgid "Message field is required."
+msgstr "Het veld ' uw bericht' is verplicht"
+
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup/modules/adminmenu/views/adminmenu.php:22
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup/modules/adminmenu/views/adminmenu.php:25
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup/modules/adminmenu/views/adminmenu.php:28
+msgid "Ready! Backup"
+msgstr " Backup Gereed!"
+
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup/modules/backup/controller.php:54
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup-pro/amazon/controller.php:133
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup-pro/email/controller.php:33
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup-pro/gdrive/controller.php:104
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup-pro/dropbox/controller.php:136
+msgid "Done!"
+msgstr "Klaar!"
+
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup/modules/backup/controller.php:90
+msgid "Backup successfully removed"
+msgstr "De backup is succesvol verwijderd"
+
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup/modules/backup/controller.php:93
+msgid "Unable to delete backup"
+msgstr "Kan de backup niet verwijderen"
+
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup/modules/backup/models/backup.php:140
+msgid "Filename cant be empty"
+msgstr "Bestandsnaam mag niet leeg zijn"
+
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup/modules/backup/models/backup.php:154
+msgid "Unable to recover from this backup"
+msgstr "Kan niet herstellen vanaf deze backup"
+
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup/modules/backup/models/backup.php:316
+msgid "ZIP file does not exists"
+msgstr "Het ZIP bestand bestaat niet"
+
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup/modules/backup/models/backup.php:324
+msgid "An error occurred while unpacking the archive"
+msgstr "Er is een fout opgetreden tijdens het uitpakken van het archief"
+
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup/modules/backup/models/backup.php:551
+msgid "Error: unexpected fgets() fail\n"
+msgstr "Fout: onverwachte fgets() fail\n"
+
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup/modules/backup/models/backup.php:556
+msgid "Unable to clear the database before restoring"
+msgstr ""
+"Het is niet gelukt om de database op te schonen voor het terugzetten van de "
+"backup"
+
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup/modules/backup/models/backup.php:590
+msgid "Can not find file"
+msgstr "Kan het bestand niet vinden"
+
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup/modules/backup/models/backup.php:613
+msgid ""
+"Revision of backup and your database do not match. You must enable the Force "
+"Update options to update (at one's own risk)"
+msgstr ""
+"De revisie van de back-up van uw database komen niet overeen. U moet de "
+"'Update forceren'  optie activeren om de update uit te voeren (op eigen "
+"risico)"
+
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup/modules/backup/models/backup.php:622
+msgid ""
+"This backup was made on another version of WordPress. You must enable the "
+"Force Update options to update (at one's own risk)"
+msgstr ""
+"Deze back-up is gemaakt in een andere versie van Wordpress. U moet de "
+"'Update forceren'  optie activeren om de update uit te voeren (op eigen "
+"risico)"
+
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup/modules/backup/models/backup.php:631
+msgid ""
+"Backup was created with a different version of the plugin. You must enable "
+"the Force Update options to update (at one's own risk)"
+msgstr ""
+"Backup is gemaakt met een andere versie van de plugin. U moet de 'Update "
+"forceren'  optie activeren om de update uit te voeren (op eigen risico)"
+
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup/modules/backup/models/backup.php:664
+msgid ""
+"Your MySQL server does not support transactions, \"safe update\" unavailable"
+msgstr ""
+"Uw MySQL server ondersteunt geen transacties, \"safe update\" is niet "
+"beschikbaar"
+
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup/modules/options/mod.php:20
+msgid "General"
+msgstr "Algemeen"
+
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup/modules/options/controller.php:10
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup/modules/options/controller.php:22
+msgid "Save Complete"
+msgstr "Opslaan gelukt"
+
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup/modules/options/models/modules.php:33
+msgid "Module Updated"
+msgstr "Update van de module is toegepast"
+
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup/modules/options/models/modules.php:50
+msgid "Module Update Failed"
+msgstr "Update van module mislukt"
+
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup/modules/options/models/modules.php:53
+msgid "Error module ID"
+msgstr "Fout module ID"
+
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup/modules/options/models/modules.php:173
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup/modules/options/models/modules.php:194
+msgid "Can not contact authorization server for now."
+msgstr "Kan nu geen contact maken met de authorisatieserver"
+
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup/modules/options/models/modules.php:174
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup/modules/options/models/modules.php:195
+msgid "Please try again latter."
+msgstr "Probeer a.u.b. later nog een keer."
+
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup/modules/options/models/modules.php:175
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup/modules/options/models/modules.php:196
+msgid ""
+"If problem will not stop - please contact us using this form <a href="
+"\"http://readyshoppingcart.com/contacts/\" target=\"_blank\">http://"
+"readyshoppingcart.com/contacts/</a>."
+msgstr ""
+"als het probleem aanhoudt - neem a.u.b. contact met ons op door gebruik te "
+"maken van dit formulier <a href=\"http://readyshoppingcart.com/contacts/\" "
+"target=\"_blank\">http://readyshoppingcart.com/contacts/</a>."
+
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup/modules/options/models/modules.php:178
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup/modules/options/models/modules.php:199
+msgid "Please enter activation key"
+msgstr "Vul uw activeringsleutel in"
+
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup/modules/options/models/modules.php:180
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup/modules/options/models/modules.php:201
+msgid "Empty plugin name"
+msgstr "Lege plugin naam"
+
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup/modules/options/models/options.php:26
+msgid "Incorrect email address"
+msgstr "Ongeldig e-mailadres"
+
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup/modules/options/models/options.php:36
+msgid "No change"
+msgstr "Geen aanpassing gemaakt"
+
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup/modules/options/models/options.php:52
+msgid "PRO version is not activated"
+msgstr "PRO versie is niet geactiveerd"
+
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup/modules/options/models/options.php:56
+msgid "No selected options"
+msgstr "Geen geselecteerde opties"
+
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup/modules/options/models/options.php:215
+msgid "Option "
+msgstr "Optie"
+
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup/modules/options/models/options.php:217
+msgid "Invalid option ID or Code"
+msgstr "Ongeldige optie ID of Code"
+
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup/modules/options/models/options.php:220
+msgid "Empty data to save option"
+msgstr "Data verwijderen om op te kunnen slaan"
+
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup/modules/options/models/options.php:246
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup/modules/options/models/options.php:262
+msgid "Empty data to setup"
+msgstr "Data verwijderen om de setup te starten"
+
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup/modules/options/models/options.php:276
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup/modules/options/models/options.php:278
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup/modules/options/models/options.php:299
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup/modules/options/models/options.php:301
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup/modules/options/models/options.php:331
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup/modules/options/models/options.php:333
+msgid "There is no default for this option and current template"
+msgstr "Er is geen standaard voor deze optie en huidige template"
+
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup/modules/options/models/options.php:280
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup/modules/options/models/options.php:303
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup/modules/options/models/options.php:335
+msgid "Empty option code"
+msgstr "Niet ingevulde optie code"
+
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup/modules/options/models/options.php:313
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup/modules/options/models/options.php:345
+msgid "Unable to remove image"
+msgstr "Niet gelukt om de foto te verwijderen"
+
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup/modules/options/views/tpl/templateLogoOptionsHtml.php:28
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup/modules/options/views/tpl/templateBgOptionsHtml.php:46
+msgid "Remove image"
+msgstr "Verwijder foto"
+
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup/modules/options/views/tpl/templateLogoOptionsHtml.php:29
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup/modules/options/views/tpl/templateBgOptionsHtml.php:17
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup/modules/options/views/tpl/templateBgOptionsHtml.php:47
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup/modules/options/views/tpl/templateMsgOptionsHtml.php:13
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup/modules/options/views/tpl/templateMsgOptionsHtml.php:30
+msgid "Set default"
+msgstr "Als standaard instellen"
+
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup/modules/options/views/tpl/mainOptionsHtml.php:49
+msgid "Exclude:"
+msgstr "Uitsluiten:"
+
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup/modules/options/views/tpl/mainOptionsHtml.php:57
+msgid "Email notification:"
+msgstr "Email bericht:"
+
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup/modules/options/views/tpl/mainOptionsTab.php:39
+msgid "Backup Now"
+msgstr "Nu backuppen"
+
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup/modules/options/views/tpl/mainOptionsTab.php:49
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup/modules/storage/views/tpl/storageBlock.php:31
+msgid "Restore"
+msgstr "Terugzetten"
+
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup/modules/options/views/tpl/mainOptionsTab.php:100
+msgid "Save"
+msgstr "Opslaan"
+
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup/modules/templates/mod.php:11
+msgid "Templates"
+msgstr "Sjablonen"
+
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup/classes/modInstaller.php:79
+msgid "Can not create module directory. Try to set permission to "
+msgstr ""
+"Kan de map van de module niet aanmaken. Probeer om de beveilig in te stellen "
+"op"
+
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup/classes/modInstaller.php:106
+msgid "No modules were found in XML file"
+msgstr "Geen modules gevonden in het XML bestand"
+
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup/classes/modInstaller.php:110
+msgid "Invalid XML file"
+msgstr "Ongeldig XML bestand"
+
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup/classes/modInstaller.php:112
+msgid "No XML file were found"
+msgstr "Geen XML bestanden gevonden"
+
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup/classes/modInstaller.php:137
+msgid "Error Activate module"
+msgstr "Fout, activeer module"
+
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup/classes/modInstaller.php:157
+msgid "Error Deactivation module"
+msgstr "Fout tijdens het uitschakelen van de module"
+
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup/classes/modInstaller.php:178
+msgid "Error Activating module"
+msgstr "Fout tijdens het activeren van de module"
+
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup/classes/field.php:131
+msgid "Select"
+msgstr "Selecteren"
+
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup/classes/field.php:170
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup/classes/field.php:179
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup/classes/field.php:184
+msgid "N/A"
+msgstr "N/A"
+
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup/classes/field.php:277
+msgid "Add Checkbox"
+msgstr "Checkbox toevoegen"
+
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup/classes/field.php:282
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup/classes/field.php:287
+msgid "Add Item"
+msgstr "Artikel toevoegen"
+
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup/classes/field.php:293
+msgid "Add Radio Button"
+msgstr "Radio button toevoegen"
+
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup/classes/field.php:311
+msgid "Dimensions"
+msgstr "Afmetingen"
+
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup/classes/field.php:314
+msgid "width"
+msgstr "breedte"
+
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup/classes/field.php:316
+msgid "height"
+msgstr "hoogte"
+
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup/classes/field.php:323
+msgid "Click to set field \"id\" and \"class\""
+msgstr "Activeer de velden \"id\" and \"class\""
+
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup/classes/field.php:324
+msgid "Attributes"
+msgstr "Eigenschappen"
+
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup/classes/field.php:402
+msgid "There are no configuration options for this module"
+msgstr "Er zijn geen configuraties mogelijk voor deze module"
+
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup/classes/fieldAdapter.php:93
+msgid "Apply To"
+msgstr "Pas toe"
+
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup/classes/fieldAdapter.php:95
+msgid "Address"
+msgstr "Adres"
+
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup/classes/fieldAdapter.php:96
+msgid "Destination"
+msgstr "Bestemming"
+
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup/classes/fieldAdapter.php:97
+msgid "Country"
+msgstr "Land"
+
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup/classes/fieldAdapter.php:100
+msgid "Categories"
+msgstr "Categorieën"
+
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup/classes/fieldAdapter.php:101
+msgid "You have no categories"
+msgstr "U heeft geen categorieën"
+
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup/classes/fieldAdapter.php:102
+msgid "Brands"
+msgstr "Merken"
+
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup/classes/fieldAdapter.php:103
+msgid "You have no brands"
+msgstr "U heeft geen merken"
+
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup/classes/fieldAdapter.php:105
+msgid "Tax Rate"
+msgstr "Belastingtarief"
+
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup/classes/fieldAdapter.php:106
+msgid "Absolute"
+msgstr "Onvoorwaardelijk"
+
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup/classes/fieldAdapter.php:134
+msgid "Not selected"
+msgstr "Niet geselecteerd"
+
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup/classes/fieldAdapter.php:184
+msgid "class"
+msgstr "klasse"
+
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup/classes/fieldAdapter.php:186
+msgid "id"
+msgstr "id"
+
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup/classes/installer.php:232
+msgid " Page Content"
+msgstr "Pagina inhoud"
+
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup/classes/table.php:263
+msgid "Nothig to update"
+msgstr "Niets om te updaten"
+
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup/classes/table.php:280
+msgid "Database error. Please contact your developer."
+msgstr "Databasefout. Neem a.u.b. contact op met uw ontwikkelaar."
+
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup/classes/html.php:141
+msgid "Upload"
+msgstr "Upload"
+
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup/classes/tables/modules_type.php:7
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup/classes/tables/htmltype.php:7
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup/classes/tables/options_categories.php:7
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup/classes/tables/options.php:7
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup/classes/tables/log.php:7
+msgid "ID"
+msgstr "ID"
+
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup/classes/tables/modules_type.php:8
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup/classes/tables/modules.php:7
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup/classes/tables/options.php:10
+msgid "Label"
+msgstr "Label"
+
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup/classes/tables/htmltype.php:8
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup/classes/tables/options_categories.php:8
+msgid "Method"
+msgstr "Methode"
+
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup/classes/tables/htmltype.php:9
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup/classes/tables/modules.php:12
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup/classes/tables/options.php:11
+msgid "Description"
+msgstr "Omschrijving"
+
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup/classes/tables/modules.php:8
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup/classes/tables/options.php:12
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup/classes/tables/log.php:8
+msgid "Type"
+msgstr "Type"
+
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup/classes/tables/modules.php:9
+msgid "Active"
+msgstr "Actieve"
+
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup/classes/tables/modules.php:10
+msgid "Params"
+msgstr "Parameters"
+
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup/classes/tables/modules.php:11
+msgid "Has Tab"
+msgstr "Has Tab"
+
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup/classes/tables/modules.php:13
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup/classes/tables/options.php:8
+msgid "Code"
+msgstr "Code"
+
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup/classes/tables/modules.php:14
+msgid "External plugin directory"
+msgstr "Externe plugin map"
+
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup/classes/tables/files.php:7
+msgid "Product ID"
+msgstr "Product ID"
+
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup/classes/tables/files.php:8
+msgid "File name"
+msgstr "Bestandsnaam"
+
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup/classes/tables/files.php:9
+msgid "Real Path To File"
+msgstr "Werkelijk pad naar bestand"
+
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup/classes/tables/files.php:10
+msgid "Mime Type"
+msgstr "Mime type"
+
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup/classes/tables/files.php:11
+msgid "File Size"
+msgstr "Bestandsgrootte"
+
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup/classes/tables/files.php:12
+msgid "Active Download"
+msgstr "Actieve download"
+
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup/classes/tables/files.php:13
+msgid "Upload Date"
+msgstr "Uploaddatum"
+
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup/classes/tables/files.php:14
+msgid "Download Limit"
+msgstr "Downloadlimiet"
+
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup/classes/tables/files.php:15
+msgid "Period Limit"
+msgstr "Tijdslimiet"
+
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup/classes/tables/files.php:16
+msgid "Descritpion"
+msgstr "Omschrijving"
+
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup/classes/tables/files.php:17
+msgid "Type ID"
+msgstr "Typenummer"
+
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup/classes/tables/options.php:9
+msgid "Value"
+msgstr "Waarde"
+
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup/classes/tables/options.php:13
+msgid "Category ID"
+msgstr "Categorienummer"
+
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup/classes/tables/options.php:14
+msgid "Sort Order"
+msgstr "Sorteervolgorde"
+
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup/classes/tables/options.php:15
+msgid "Value Type"
+msgstr "Gegevenstype"
+
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup/classes/tables/log.php:9
+msgid "Data"
+msgstr "Data"
+
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup/classes/tables/log.php:10
+msgid "Date created"
+msgstr "Datum aangemaakt"
+
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup/classes/tables/log.php:11
+msgid "User ID"
+msgstr "Gebruikers ID"
+
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup/classes/tables/log.php:12
+msgid "Order ID"
+msgstr "Order ID"
+
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup-pro/amazon/controller.php:68
+msgid "Credentials are stored in the database"
+msgstr "Gegevens zijn opgeslagen in de database"
+
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup-pro/amazon/controller.php:71
+msgid "Invalid or empty credentials"
+msgstr "Ongeldige of niet ingevulde gegevens"
+
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup-pro/amazon/controller.php:99
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup-pro/dropbox/controller.php:84
+msgid "Please, wait..."
+msgstr "Even wachten a.u.b."
+
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup-pro/amazon/controller.php:136
+msgid "You did not specify credentials or credentials are invalid"
+msgstr "U heeft niet de juiste of ongeldige gegevens ingevuld"
+
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup-pro/amazon/controller.php:139
+msgid "Bucket not found"
+msgstr "Mand niet gevonden"
+
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup-pro/amazon/controller.php:196
+msgid "File not found on Amazon S3"
+msgstr "Bestand niet gevonden op Amazon S3"
+
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup-pro/amazon/controller.php:212
+msgid "Enter your AWS Access Key, Secret Key and Bucket name"
+msgstr "Vul hier uw AWS toegangscode, beveiligingssleutel en naam uw mand in"
+
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup-pro/amazon/controller.php:215
+msgid "Access Key"
+msgstr "Toegang sleutel"
+
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup-pro/amazon/controller.php:221
+msgid "Secret Key"
+msgstr "Beveiligingssleutel"
+
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup-pro/amazon/controller.php:227
+msgid "Bucket"
+msgstr "Mand"
+
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup-pro/amazon/controller.php:238
+msgid "Store credentials"
+msgstr "Winkel gegevens"
+
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup-pro/amazon/views/tpl/amazon.index.php:43
+msgid "Logout"
+msgstr "Uitloggen"
+
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup-pro/email/models/email.php:17
+msgid "File does not exists"
+msgstr "Bestand bestaat niet"
+
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup-pro/email/models/email.php:23
+msgid "Unable to split file"
+msgstr "Niet mogelijk het bestand op te splitsen"
+
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup-pro/email/models/email.php:35
+msgid "Can't send mail"
+msgstr "Kan geen mail versturen"
+
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup-pro/email/models/email.php:56
+msgid "Nothing to move"
+msgstr "Niets om te verplaatsen"
+
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup-pro/email/models/email.php:63
+msgid "Can't move file: "
+msgstr "Kan bestand niet verplaatsen"
+
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup-pro/email/models/email.php:80
+msgid "Nothing to join"
+msgstr "Niets om samen te voegen"
+
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup-pro/email/models/email.php:94
+msgid "Can't join files"
+msgstr "Kan bestanden niet samenvoegen"
+
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup-pro/gdrive/controller.php:44
+msgid "Your server is not support Google API Client Library"
+msgstr "Uw server ondersteunt de Google API Client Library niet"
+
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup-pro/gdrive/controller.php:46
+msgid "PHP JSON extension required"
+msgstr "PHP JSON extensie verplicht"
+
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup-pro/gdrive/controller.php:83
+msgid "Please wait..."
+msgstr "Even wachten a.u.b..."
+
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup-pro/gdrive/controller.php:107
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup-pro/gdrive/controller.php:139
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup-pro/gdrive/controller.php:155
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup-pro/dropbox/controller.php:139
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup-pro/dropbox/models/dropbox52.php:138
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup-pro/dropbox/models/dropbox52.php:172
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup-pro/dropbox/models/dropbox.php:222
+msgid "Authentication required"
+msgstr "Authenticatie verplicht"
+
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup-pro/gdrive/controller.php:114
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup-pro/dropbox/controller.php:142
+msgid "Nothing to upload"
+msgstr "Niets te uploaden"
+
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup-pro/gdrive/controller.php:132
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup-pro/dropbox/controller.php:165
+msgid "Nothing to delete"
+msgstr "Niets te verwijderen"
+
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup-pro/gdrive/controller.php:136
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup-pro/dropbox/controller.php:169
+msgid "File successfully deleted"
+msgstr "Bestand succesvol verwijderd"
+
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup-pro/gdrive/controller.php:170
+msgid "File not found on Google Drive"
+msgstr "Bestand niet gevonden op Google Drive"
+
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup-pro/gdrive/controller.php:173
+msgid "Failed to download file"
+msgstr "Downloaden van het bestand mislukt"
+
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup-pro/dropbox/mod.php:118
+msgid "Your server does not support the Dropbox without cURL extension"
+msgstr "Uw server ondersteunt niet de Dropbox zonder cURL extensie"
+
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup-pro/dropbox/controller.php:98
+msgid "Your server not meet the requirements Dropbox SDK"
+msgstr "Uw server voldoet niet aan de eisen van Dropbox SDK"
+
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup-pro/dropbox/controller.php:189
+msgid "There was an error during recovery"
+msgstr "Er is een probleem opgetreden tijdens het terugzetten"
+
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup-pro/dropbox/models/dropbox.php:237
+msgid "File not found"
+msgstr "Bestand niet gevonden"
+
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup-pro/backup_pro/mod.php:26
+msgid "Send to email"
+msgstr "Versturen naar e-mail"

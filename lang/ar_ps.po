@@ -1,0 +1,735 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ready Backup\n"
+"POT-Creation-Date: 2014-03-11 12:09+0300\n"
+"PO-Revision-Date: 2014-06-11 13:52+0200\n"
+"Last-Translator: Mujahed Altahle <mujahed1987@hotmail.com>\n"
+"Language-Team: Mujahed <mujahed1987@hotmail.com>\n"
+"Language: ar_PS\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.5\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=6; plural=(n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 "
+"&& n%100<=10 ? 3 : n%100>=11 && n%100<=99 ? 4 : 5);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup/modules/schedule/controller.php:8
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup/modules/backup/controller.php:33
+msgid "Backup complete"
+msgstr "لقد اكتمل النسخ الاحتياطي"
+
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup/modules/schedule/controller.php:19
+msgid "Save complete"
+msgstr "اكتمل الحفظ"
+
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup/modules/schedule/views/tpl/schedulePage.php:94
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup/modules/options/views/tpl/templateOptionsTab.php:33
+msgid "Save All Changes"
+msgstr "حفظ جميع التغييرات"
+
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup/modules/promo_ready/controller.php:6
+msgid "Information was saved. Thank you!"
+msgstr "تم حفظ المعلومات. شكرا لك"
+
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup/modules/pages/mod.php:151
+msgid "Pages"
+msgstr "الصفحات"
+
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup/modules/pages/mod.php:176
+msgid "This message will be visible for admin only."
+msgstr "هذه الرسالة سوف تكون مرئية لمدير الموقع فقط"
+
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup/modules/pages/controller.php:6
+msgid "Pages was recreated"
+msgstr "تم إعادة إنشاء الصفحة"
+
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup/modules/pages/views/tpl/deactivatePage.php:37
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup/modules/adminmenu/controller.php:28
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup/modules/options/views/tpl/deactivatePage.php:37
+msgid "Done"
+msgstr "تم"
+
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup/modules/pages/views/tpl/pagesTab.php:17
+msgid "Recreate Pages"
+msgstr "إعادة إنشاء الصفحات"
+
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup/modules/adminmenu/mod.php:10
+msgid "Settings"
+msgstr "الإعدادات"
+
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup/modules/adminmenu/controller.php:7
+msgid "Your name field is required."
+msgstr "حقل الإسم مطلوب."
+
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup/modules/adminmenu/controller.php:8
+msgid "Your website field is required."
+msgstr "عنوان الموقع مطلوب."
+
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup/modules/adminmenu/controller.php:9
+msgid "Your e-mail field is required."
+msgstr "البريد الإلكتروني مطلوب."
+
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup/modules/adminmenu/controller.php:10
+msgid "Subject field is required."
+msgstr "العنوان مطلوب"
+
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup/modules/adminmenu/controller.php:11
+msgid "You must select a valid category."
+msgstr "يجب اختيار تصنيف صحيح."
+
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup/modules/adminmenu/controller.php:12
+msgid "Message field is required."
+msgstr "حقل الرسالة مطلوب."
+
+# this is the name of the project and it make nonsense to translate it
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup/modules/adminmenu/views/adminmenu.php:22
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup/modules/adminmenu/views/adminmenu.php:25
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup/modules/adminmenu/views/adminmenu.php:28
+msgid "Ready! Backup"
+msgstr "Ready! Backup"
+
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup/modules/backup/controller.php:54
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup-pro/amazon/controller.php:133
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup-pro/email/controller.php:33
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup-pro/gdrive/controller.php:104
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup-pro/dropbox/controller.php:136
+msgid "Done!"
+msgstr "تم !"
+
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup/modules/backup/controller.php:90
+msgid "Backup successfully removed"
+msgstr "تم إزالة النسخة الإحتياطية بنجاح"
+
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup/modules/backup/controller.php:93
+msgid "Unable to delete backup"
+msgstr "غير قادر علىحذف النسخة الإحتياطية"
+
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup/modules/backup/models/backup.php:140
+msgid "Filename cant be empty"
+msgstr "لا يمكن ترك إسم الملف فارغا"
+
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup/modules/backup/models/backup.php:154
+msgid "Unable to recover from this backup"
+msgstr "غير قادر على استعادة النسخة الإحتياطية من هذا الملف"
+
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup/modules/backup/models/backup.php:316
+msgid "ZIP file does not exists"
+msgstr "ملف ZIP المضغوط غير موجود"
+
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup/modules/backup/models/backup.php:324
+msgid "An error occurred while unpacking the archive"
+msgstr "حدث خطأ أثناء استخراج الملفات المؤرشفة"
+
+# This is an Error message that must preserve technical information as is
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup/modules/backup/models/backup.php:551
+msgid "Error: unexpected fgets() fail\n"
+msgstr "خطأ : unexpected fgets() fail\n"
+
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup/modules/backup/models/backup.php:556
+msgid "Unable to clear the database before restoring"
+msgstr "غير قادر على مسح قاعدة البيانات قبل الاستعادة"
+
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup/modules/backup/models/backup.php:590
+msgid "Can not find file"
+msgstr "غير قادر على العثور على ملف"
+
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup/modules/backup/models/backup.php:613
+msgid ""
+"Revision of backup and your database do not match. You must enable the Force "
+"Update options to update (at one's own risk)"
+msgstr ""
+"إصدار النسخة الاحتياطية وقاعدة البيانات غير متطابقين. يجب تمكين خيار التحديث "
+"الإجباري لإستكمال التحديث (استعمال هذا الخيار على مسؤوليتك الشخصية)"
+
+# no translation for WordPress since it is the a name of product
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup/modules/backup/models/backup.php:622
+msgid ""
+"This backup was made on another version of WordPress. You must enable the "
+"Force Update options to update (at one's own risk)"
+msgstr ""
+"تم إجراء هذا النسخ الاحتياطي باستخدام إصدار مختلف من WordPress. يجب تمكين "
+"خيار التحديث الإجباري لإستكمال التحديث (استعمال هذا الخيار على مسؤوليتك "
+"الشخصية)"
+
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup/modules/backup/models/backup.php:631
+msgid ""
+"Backup was created with a different version of the plugin. You must enable "
+"the Force Update options to update (at one's own risk)"
+msgstr ""
+"تم إجراء هذا النسخ الاحتياطي باستخدام إصدار مختلف من هذه الإضافة. يجب تمكين "
+"خيار التحديث الإجباري لإستكمال التحديث (استعمال هذا الخيار على مسؤوليتك "
+"الشخصية)"
+
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup/modules/backup/models/backup.php:664
+msgid ""
+"Your MySQL server does not support transactions, \"safe update\" unavailable"
+msgstr ""
+"مخدم قاعدة بيانات MySQL الخاصة بك لا تدعم الـ transactions، لذا فإن  "
+"\"التحديث الآمن\" غير متوفر"
+
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup/modules/options/mod.php:20
+msgid "General"
+msgstr "عام"
+
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup/modules/options/controller.php:10
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup/modules/options/controller.php:22
+msgid "Save Complete"
+msgstr "اكتمل الحفظ"
+
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup/modules/options/models/modules.php:33
+msgid "Module Updated"
+msgstr "تم تحديث الإضافة"
+
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup/modules/options/models/modules.php:50
+msgid "Module Update Failed"
+msgstr "فشل تحديث الإضافة"
+
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup/modules/options/models/modules.php:53
+msgid "Error module ID"
+msgstr "خطأ في معرف (ID) الإضافة"
+
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup/modules/options/models/modules.php:173
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup/modules/options/models/modules.php:194
+msgid "Can not contact authorization server for now."
+msgstr "غير قادر على الإتصال بمخدم التوثيق حاليا."
+
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup/modules/options/models/modules.php:174
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup/modules/options/models/modules.php:195
+msgid "Please try again latter."
+msgstr "يرجى المحاولة لاحقاً."
+
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup/modules/options/models/modules.php:175
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup/modules/options/models/modules.php:196
+msgid ""
+"If problem will not stop - please contact us using this form <a href="
+"\"http://readyshoppingcart.com/contacts/\" target=\"_blank\">http://"
+"readyshoppingcart.com/contacts/</a>."
+msgstr ""
+"اذا استمر ظوهر المشكلة- يرجى التواصل معنا عن طريق النموذج ف هذا الرابط <a "
+"href=\"http://readyshoppingcart.com/contacts/\" target=\"_blank\">http://"
+"readyshoppingcart.com/contacts/</a>. "
+
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup/modules/options/models/modules.php:178
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup/modules/options/models/modules.php:199
+msgid "Please enter activation key"
+msgstr "يرجى إدخال مفتاح التفعيل"
+
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup/modules/options/models/modules.php:180
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup/modules/options/models/modules.php:201
+msgid "Empty plugin name"
+msgstr "اسم الإضافة فارغ"
+
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup/modules/options/models/options.php:26
+msgid "Incorrect email address"
+msgstr "البريد الإلكتروني المدخل غير صحيح"
+
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup/modules/options/models/options.php:36
+msgid "No change"
+msgstr "لا يوجد أي تغييرات"
+
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup/modules/options/models/options.php:52
+msgid "PRO version is not activated"
+msgstr "لم يتم تفعيل النسخة الإحترافية"
+
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup/modules/options/models/options.php:56
+msgid "No selected options"
+msgstr "لم يتم تحديد أي خيار"
+
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup/modules/options/models/options.php:215
+msgid "Option "
+msgstr "الخيار"
+
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup/modules/options/models/options.php:217
+msgid "Invalid option ID or Code"
+msgstr "معرف (ID) الخيار او الكود غير صحيح"
+
+# need review
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup/modules/options/models/options.php:220
+msgid "Empty data to save option"
+msgstr "تفريغ البيانات لحفظ الخيار"
+
+# need review
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup/modules/options/models/options.php:246
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup/modules/options/models/options.php:262
+msgid "Empty data to setup"
+msgstr "تفريغ البيانات للإعداد"
+
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup/modules/options/models/options.php:276
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup/modules/options/models/options.php:278
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup/modules/options/models/options.php:299
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup/modules/options/models/options.php:301
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup/modules/options/models/options.php:331
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup/modules/options/models/options.php:333
+msgid "There is no default for this option and current template"
+msgstr "لا يوجد قيم افتراضية لهذا الخيار والقالب الحالي"
+
+# need review
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup/modules/options/models/options.php:280
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup/modules/options/models/options.php:303
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup/modules/options/models/options.php:335
+msgid "Empty option code"
+msgstr "خيار الكود فارغ"
+
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup/modules/options/models/options.php:313
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup/modules/options/models/options.php:345
+msgid "Unable to remove image"
+msgstr "غير قادر على إزالة الصورة"
+
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup/modules/options/views/tpl/templateLogoOptionsHtml.php:28
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup/modules/options/views/tpl/templateBgOptionsHtml.php:46
+msgid "Remove image"
+msgstr "إزالة الصورة"
+
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup/modules/options/views/tpl/templateLogoOptionsHtml.php:29
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup/modules/options/views/tpl/templateBgOptionsHtml.php:17
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup/modules/options/views/tpl/templateBgOptionsHtml.php:47
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup/modules/options/views/tpl/templateMsgOptionsHtml.php:13
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup/modules/options/views/tpl/templateMsgOptionsHtml.php:30
+msgid "Set default"
+msgstr "إستعادة القيم الإفتراضية"
+
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup/modules/options/views/tpl/mainOptionsHtml.php:49
+msgid "Exclude:"
+msgstr "الاستثناءات:"
+
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup/modules/options/views/tpl/mainOptionsHtml.php:57
+msgid "Email notification:"
+msgstr "التنبيه بالبريد الإلكتروني"
+
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup/modules/options/views/tpl/mainOptionsTab.php:39
+msgid "Backup Now"
+msgstr "حفظ نسخة إحتياطية حالا"
+
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup/modules/options/views/tpl/mainOptionsTab.php:49
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup/modules/storage/views/tpl/storageBlock.php:31
+msgid "Restore"
+msgstr "إستعادة"
+
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup/modules/options/views/tpl/mainOptionsTab.php:100
+msgid "Save"
+msgstr "حفظ"
+
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup/modules/templates/mod.php:11
+msgid "Templates"
+msgstr "القوالب"
+
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup/classes/modInstaller.php:79
+msgid "Can not create module directory. Try to set permission to "
+msgstr "غير قادر على إنشاء مجلد للإضافة. جرب تعيين الصلاحيات لـ"
+
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup/classes/modInstaller.php:106
+msgid "No modules were found in XML file"
+msgstr "لم يتم العثور على أي إضافات في ملف الـXML"
+
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup/classes/modInstaller.php:110
+msgid "Invalid XML file"
+msgstr "ملف الـXML غير صحيح "
+
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup/classes/modInstaller.php:112
+msgid "No XML file were found"
+msgstr "لم تم العثور على ملف XML"
+
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup/classes/modInstaller.php:137
+msgid "Error Activate module"
+msgstr "خطأ  في تفعيل الإضافة"
+
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup/classes/modInstaller.php:157
+msgid "Error Deactivation module"
+msgstr "خطأ في إلغاء تفعيل الإضافة"
+
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup/classes/modInstaller.php:178
+msgid "Error Activating module"
+msgstr "خطأ  في تفعيل الإضافة"
+
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup/classes/field.php:131
+msgid "Select"
+msgstr "تحديد"
+
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup/classes/field.php:170
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup/classes/field.php:179
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup/classes/field.php:184
+msgid "N/A"
+msgstr "N/A"
+
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup/classes/field.php:277
+msgid "Add Checkbox"
+msgstr "إضافة Checkbox"
+
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup/classes/field.php:282
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup/classes/field.php:287
+msgid "Add Item"
+msgstr "إضافة عنصر"
+
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup/classes/field.php:293
+msgid "Add Radio Button"
+msgstr "إضافة Radio Button"
+
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup/classes/field.php:311
+msgid "Dimensions"
+msgstr "الأبعاد"
+
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup/classes/field.php:314
+msgid "width"
+msgstr "العرض"
+
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup/classes/field.php:316
+msgid "height"
+msgstr "الإرتفاع"
+
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup/classes/field.php:323
+msgid "Click to set field \"id\" and \"class\""
+msgstr "انقر لضبط حقلي  \"id\" و \"class\""
+
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup/classes/field.php:324
+msgid "Attributes"
+msgstr "Attributes"
+
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup/classes/field.php:402
+msgid "There are no configuration options for this module"
+msgstr "لا يوجد خيارات ضبط لهذه الإضافة"
+
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup/classes/fieldAdapter.php:93
+msgid "Apply To"
+msgstr "تطبيقه على"
+
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup/classes/fieldAdapter.php:95
+msgid "Address"
+msgstr "العنوان"
+
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup/classes/fieldAdapter.php:96
+msgid "Destination"
+msgstr "الوجهة"
+
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup/classes/fieldAdapter.php:97
+msgid "Country"
+msgstr "الدولة"
+
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup/classes/fieldAdapter.php:100
+msgid "Categories"
+msgstr "التصنيفات"
+
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup/classes/fieldAdapter.php:101
+msgid "You have no categories"
+msgstr "ليس لديك أية تصنيفات"
+
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup/classes/fieldAdapter.php:102
+msgid "Brands"
+msgstr "العلامات التجارية (الشعارات)"
+
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup/classes/fieldAdapter.php:103
+msgid "You have no brands"
+msgstr "لا يوجد لديك علامة تجارية (شعار)"
+
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup/classes/fieldAdapter.php:105
+msgid "Tax Rate"
+msgstr "معدل الضريبة"
+
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup/classes/fieldAdapter.php:106
+msgid "Absolute"
+msgstr "القيمة المطلقة"
+
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup/classes/fieldAdapter.php:134
+msgid "Not selected"
+msgstr "لم يتم تحديده"
+
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup/classes/fieldAdapter.php:184
+msgid "class"
+msgstr "الصنف"
+
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup/classes/fieldAdapter.php:186
+msgid "id"
+msgstr "رقم التعريف"
+
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup/classes/installer.php:232
+msgid " Page Content"
+msgstr "محتويات الصفحة"
+
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup/classes/table.php:263
+msgid "Nothig to update"
+msgstr "لا شيء للتحديث"
+
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup/classes/table.php:280
+msgid "Database error. Please contact your developer."
+msgstr "خطآ في قاعدة البيانات، الرجاء التواصل مع المطور."
+
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup/classes/html.php:141
+msgid "Upload"
+msgstr "رفع"
+
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup/classes/tables/modules_type.php:7
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup/classes/tables/htmltype.php:7
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup/classes/tables/options_categories.php:7
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup/classes/tables/options.php:7
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup/classes/tables/log.php:7
+msgid "ID"
+msgstr "رقم التعريف"
+
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup/classes/tables/modules_type.php:8
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup/classes/tables/modules.php:7
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup/classes/tables/options.php:10
+msgid "Label"
+msgstr "وسم"
+
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup/classes/tables/htmltype.php:8
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup/classes/tables/options_categories.php:8
+msgid "Method"
+msgstr "الطريقة"
+
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup/classes/tables/htmltype.php:9
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup/classes/tables/modules.php:12
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup/classes/tables/options.php:11
+msgid "Description"
+msgstr "الوصف"
+
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup/classes/tables/modules.php:8
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup/classes/tables/options.php:12
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup/classes/tables/log.php:8
+msgid "Type"
+msgstr "النوع"
+
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup/classes/tables/modules.php:9
+msgid "Active"
+msgstr "فعال"
+
+# is that aperviation for “parameter”??
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup/classes/tables/modules.php:10
+msgid "Params"
+msgstr "المتغيرات"
+
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup/classes/tables/modules.php:11
+msgid "Has Tab"
+msgstr "مبوب"
+
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup/classes/tables/modules.php:13
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup/classes/tables/options.php:8
+msgid "Code"
+msgstr "الكود"
+
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup/classes/tables/modules.php:14
+msgid "External plugin directory"
+msgstr "مجلد الإضافة الخارجي"
+
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup/classes/tables/files.php:7
+msgid "Product ID"
+msgstr "معرف المنتج"
+
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup/classes/tables/files.php:8
+msgid "File name"
+msgstr "اسم الملف"
+
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup/classes/tables/files.php:9
+msgid "Real Path To File"
+msgstr "المسار الفعلي للملف"
+
+# technical phrase
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup/classes/tables/files.php:10
+msgid "Mime Type"
+msgstr "Mime Type"
+
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup/classes/tables/files.php:11
+msgid "File Size"
+msgstr "حجم الملف"
+
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup/classes/tables/files.php:12
+msgid "Active Download"
+msgstr "التحميل الفعال"
+
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup/classes/tables/files.php:13
+msgid "Upload Date"
+msgstr "تاريخ الرفع"
+
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup/classes/tables/files.php:14
+msgid "Download Limit"
+msgstr "حدود التحميل"
+
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup/classes/tables/files.php:15
+msgid "Period Limit"
+msgstr "الحد الزمني"
+
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup/classes/tables/files.php:16
+msgid "Descritpion"
+msgstr "التوصيف"
+
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup/classes/tables/files.php:17
+msgid "Type ID"
+msgstr "معرف النوع"
+
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup/classes/tables/options.php:9
+msgid "Value"
+msgstr "القيمة"
+
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup/classes/tables/options.php:13
+msgid "Category ID"
+msgstr "معرف التصنيف"
+
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup/classes/tables/options.php:14
+msgid "Sort Order"
+msgstr "ترتيب الفرز"
+
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup/classes/tables/options.php:15
+msgid "Value Type"
+msgstr "نوع القيمة"
+
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup/classes/tables/log.php:9
+msgid "Data"
+msgstr "البيانات"
+
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup/classes/tables/log.php:10
+msgid "Date created"
+msgstr "تاريخ الإنشاء"
+
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup/classes/tables/log.php:11
+msgid "User ID"
+msgstr "معرف المستخدم"
+
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup/classes/tables/log.php:12
+msgid "Order ID"
+msgstr "معرف الطلبية"
+
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup-pro/amazon/controller.php:68
+msgid "Credentials are stored in the database"
+msgstr "تم تخزيم معلومات الدخول في قاعدة البيانات"
+
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup-pro/amazon/controller.php:71
+msgid "Invalid or empty credentials"
+msgstr "معلومات الدخول فارغة او غير صحيحة"
+
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup-pro/amazon/controller.php:99
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup-pro/dropbox/controller.php:84
+msgid "Please, wait..."
+msgstr "الرجاء الإنتظار..."
+
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup-pro/amazon/controller.php:136
+msgid "You did not specify credentials or credentials are invalid"
+msgstr "لم تقم بتعيين معلومات الدخول أو أنها غير صحيحة"
+
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup-pro/amazon/controller.php:139
+msgid "Bucket not found"
+msgstr "لم يتم العثور على الـ Bucket"
+
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup-pro/amazon/controller.php:196
+msgid "File not found on Amazon S3"
+msgstr "لم يتم العثر على الملف في Amazon S3"
+
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup-pro/amazon/controller.php:212
+msgid "Enter your AWS Access Key, Secret Key and Bucket name"
+msgstr "قم بإدخال القيم التالية:  AWS Access Key وSecret Key و Bucket name"
+
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup-pro/amazon/controller.php:215
+msgid "Access Key"
+msgstr "مفتاح الدخول"
+
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup-pro/amazon/controller.php:221
+msgid "Secret Key"
+msgstr "المفتاح السري"
+
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup-pro/amazon/controller.php:227
+msgid "Bucket"
+msgstr "Bucket"
+
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup-pro/amazon/controller.php:238
+msgid "Store credentials"
+msgstr "تخزين معلومات الدخول"
+
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup-pro/amazon/views/tpl/amazon.index.php:43
+msgid "Logout"
+msgstr "الخروج"
+
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup-pro/email/models/email.php:17
+msgid "File does not exists"
+msgstr "الملف غير وجود"
+
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup-pro/email/models/email.php:23
+msgid "Unable to split file"
+msgstr "غير قادر على تقسيم الملف"
+
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup-pro/email/models/email.php:35
+msgid "Can't send mail"
+msgstr "غير قادر على ارسال البريد"
+
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup-pro/email/models/email.php:56
+msgid "Nothing to move"
+msgstr "لا شئ لنقله"
+
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup-pro/email/models/email.php:63
+msgid "Can't move file: "
+msgstr "لا يمكن نقل الملف:"
+
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup-pro/email/models/email.php:80
+msgid "Nothing to join"
+msgstr "لا شيء لدمجه"
+
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup-pro/email/models/email.php:94
+msgid "Can't join files"
+msgstr "غير قادر على دمج الملفات"
+
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup-pro/gdrive/controller.php:44
+msgid "Your server is not support Google API Client Library"
+msgstr ""
+"المخدم الخاص بك غير قادر على دعم مكتبة واجهة-برمجة-تطبيقات العميل لجوجل"
+
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup-pro/gdrive/controller.php:46
+msgid "PHP JSON extension required"
+msgstr "اللاحقة PHP JSON غير مطلوبة"
+
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup-pro/gdrive/controller.php:83
+msgid "Please wait..."
+msgstr "الرجاء الإنتظار"
+
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup-pro/gdrive/controller.php:107
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup-pro/gdrive/controller.php:139
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup-pro/gdrive/controller.php:155
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup-pro/dropbox/controller.php:139
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup-pro/dropbox/models/dropbox52.php:138
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup-pro/dropbox/models/dropbox52.php:172
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup-pro/dropbox/models/dropbox.php:222
+msgid "Authentication required"
+msgstr "معلومات التوثيق مطلوبة"
+
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup-pro/gdrive/controller.php:114
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup-pro/dropbox/controller.php:142
+msgid "Nothing to upload"
+msgstr "لا شيء للرفع"
+
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup-pro/gdrive/controller.php:132
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup-pro/dropbox/controller.php:165
+msgid "Nothing to delete"
+msgstr "لا شيء للحذف"
+
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup-pro/gdrive/controller.php:136
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup-pro/dropbox/controller.php:169
+msgid "File successfully deleted"
+msgstr "تم حذف الملف بنجاح"
+
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup-pro/gdrive/controller.php:170
+msgid "File not found on Google Drive"
+msgstr "لم يتم العثور على الملف في محرك اقراص جوجل"
+
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup-pro/gdrive/controller.php:173
+msgid "Failed to download file"
+msgstr "فشل في تحميل الملف"
+
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup-pro/dropbox/mod.php:118
+msgid "Your server does not support the Dropbox without cURL extension"
+msgstr "المخدم الخاص بك لا يقدم الدعم لـDropbox بدون استخدام لاحقة cURL"
+
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup-pro/dropbox/controller.php:98
+msgid "Your server not meet the requirements Dropbox SDK"
+msgstr ""
+"المخدم الخاص بك لا يقدم متطلبات دعم لـ حزمة تطوير البرمجيات الخاصة بـ Dropbox"
+
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup-pro/dropbox/controller.php:189
+msgid "There was an error during recovery"
+msgstr "لقد حدث خطأ أثناء الإسترجاع"
+
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup-pro/dropbox/models/dropbox.php:237
+msgid "File not found"
+msgstr "لم يتم العثور على الملف"
+
+#: /var/www/host1.laptop/wordpress/wp-content/plugins/ready-backup-pro/backup_pro/mod.php:26
+msgid "Send to email"
+msgstr "إرسال إلى البريد الإلكتروني"
+
